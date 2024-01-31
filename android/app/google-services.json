@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389929346855",
+    "project_id": "interviewtaskemail",
+    "storage_bucket": "interviewtaskemail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389929346855:android:345b2db32cd84486666b02",
+        "android_client_info": {
+          "package_name": "com.example.asignment_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkTNVcAO-rQ436NDir0hf_anYukUU6Waw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
